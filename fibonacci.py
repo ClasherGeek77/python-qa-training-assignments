@@ -1,3 +1,5 @@
+from fibonacci import generate_fibonacci
+
 def main():
     try:
         limit = int(input("Enter the number of Fibonacci terms: "))
