@@ -8,7 +8,7 @@ def main():
         print(f"Fibonacci numbers of length {limit}:")
         print(', '.join(map(str, fibonacci_sequence)))
         
-    except ValueError:
+    except Exception:
         print("wrong input!")
     
 if __name__ == "__main__":
