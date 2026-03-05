@@ -1,4 +1,4 @@
-# UNI Python QA Training Assignments 🐍
+# Python QA Training Assignments 🐍
 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)](https://www.python.org/)
 [![Exercises](https://img.shields.io/badge/Status-Learning-success)]()
